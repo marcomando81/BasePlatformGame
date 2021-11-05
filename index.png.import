@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/index.png-eb132de4feb3ecd6a73f87b915c83dcd.stex"
+path="res://.import/index.png-13e731faa5016970636c6e4c09d7485e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Output/Html5/BasePlatformGame/index.png"
-dest_files=[ "res://.import/index.png-eb132de4feb3ecd6a73f87b915c83dcd.stex" ]
+source_file="res://Output/Html5/index.png"
+dest_files=[ "res://.import/index.png-13e731faa5016970636c6e4c09d7485e.stex" ]
 
 [params]
 
